@@ -1,0 +1,9 @@
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/domain/po/Item.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/ItemApplication.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/controller/ItemController.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/service/IItemService.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/service/Impl/ItemServiceImpl.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/domain/dto/OrderDetailDTO.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/domain/query/ItemPageQuery.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/mapper/ItemMapper.java
+/Users/kezhen/Downloads/service1/hmall/item-service/src/main/java/com/hmall/item/domain/dto/ItemDTO.java

@@ -1,0 +1,16 @@
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/IOrderDetailService.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/domain/po/OrderDetail.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/Impl/OrderServiceImpl.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/mapper/OrderDetailMapper.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/domain/po/Order.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/IOrderLogisticsService.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/domain/vo/OrderVO.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/Impl/OrderLogisticsServiceImpl.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/domain/dto/OrderFormDTO.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/domain/po/OrderLogistics.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/mapper/OrderMapper.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/TradeApplication.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/Impl/OrderDetailServiceImpl.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/mapper/OrderLogisticsMapper.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/controller/OrderController.java
+/Users/kezhen/Downloads/service1/hmall/trade-service/src/main/java/com/hmall/trade/service/IOrderService.java
