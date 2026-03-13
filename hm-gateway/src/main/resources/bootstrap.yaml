@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: gateway
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+#      discovery:
+      server-addr: 172.16.26.128:8848
+      username: nacos
+      password: nacos
+      config:
+        file-extension: yaml
+        shared-configs:
+          - data-id: shared-jdbc.yaml
+          - data-id: shared-log.yaml
+          - data-id: shared-swagger.yaml

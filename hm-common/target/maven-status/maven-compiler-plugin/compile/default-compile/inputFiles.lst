@@ -10,8 +10,10 @@
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/exception/CommonException.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/domain/PageQuery.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/utils/UserContext.java
+/Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/config/MvcConfig.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/exception/ForbiddenException.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/domain/R.java
+/Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/Interceptors/UserInfoInterceptor.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/exception/BizIllegalException.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/config/JsonConfig.java
 /Users/kezhen/Downloads/service1/hmall/hm-common/src/main/java/com/hmall/common/config/MyBatisConfig.java
